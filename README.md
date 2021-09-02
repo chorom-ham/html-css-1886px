@@ -18,8 +18,10 @@
 
 
 ## 과제 요구사항
+<image src="https://user-images.githubusercontent.com/52379950/131772420-d5bde748-14f4-49c2-abc1-344e509cb547.png" width="300px"/>
 
-- 원하는 내용을 담아 자기 소개를 하는 html 페이지를 만듭니다.
+- 원하는 내용을 담아 자기 소개를 하는 html 페이지를 만듭니다. ([예시 바로가기](https://html-css-1886px.vercel.app/))
+- src 폴더 밑에 index.html을 수정해 만듭니다.
 - 이미지를 하나 이상 넣습니다.
 - 자신의 블로그 링크와 깃허브 링크를 넣습니다.
 - 스타일링은 자유롭게 해도 좋습니다.
@@ -37,6 +39,8 @@
 
 
 ## 과제 수행 방법
+[자세한 설명 바로가기](https://github.com/chorom-ham/html-css-1886px/blob/main/docs/%EA%B3%BC%EC%A0%9C%EC%88%98%ED%96%89%EB%B0%A9%EB%B2%95.md)
+
 1. 본 레포지토리를 fork합니다.
 2. fork된 레포지토리를 ```git clone```을 통해 로컬에 다운받습니다.
 3. 코드 에디터는 ```VSCode```를 사용해 작업합니다.
