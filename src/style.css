@@ -1,0 +1,31 @@
+body {
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 12.5rem;
+  margin-bottom: 1.125rem;
+  border-radius: 50%;
+}
+
+.name {
+  font-weight: bold;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+}
